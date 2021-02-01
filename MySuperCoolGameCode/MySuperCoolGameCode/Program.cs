@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace MySuperCoolGameCode
 {
     // Initial project creation
+    // Added movement
+    // Programmed a jump
+    // ahhhh 
     // The best code ever written
     // Literally the toppest tier coder
     // Game is done
